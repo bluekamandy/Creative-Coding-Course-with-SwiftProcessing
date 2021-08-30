@@ -28,15 +28,6 @@ The course content is licensed under a Creative Commons BY-NC-SA-4.0 license and
 - [Course Content Overview and Schedule](#Course-Content-Overview-and-Schedule)
   - [16-Week Course](#16-Week-Course)
   - [10-Week Course](#10-Week-Course)
-- [Course Content Detail](#Course-Content-Detail)
-  - [Introduction Module](#Introduction-Module)
-  - [Module 1](#Module-1)
-  - [Module 2](#Module-2)
-  - [Module 3](#Module-3)
-  - [Module 4](#Module-4)
-  - [Module 5](#Module-5)
-  - [Module 6](#Module-6)
-  - [Module 7](#Module-7)
 - [License](#License)
 
 ## Hardware Requrements
