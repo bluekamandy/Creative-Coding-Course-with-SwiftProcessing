@@ -18,9 +18,13 @@ The loom simplified the process by using **punch cards** that determined how the
 
 <img src="images/YokoOnoGrapefruit1964.jpg" alt="Yoko Ono, 1964, Grapefruit"  />
 
+*Yoko Oko. Grapefruit, 1964.*
+
 In visual art [Jean Tinguely](http://www.theartstory.org/artist-tinguely-jean.htm), [Sol Lewitt](http://massmoca.org/sol-lewitt/), and [Yoko Ono](https://www.moma.org/explore/inside_out/2015/07/15/happy-belated-birthday-to-yoko-onos-grapefruit/) are excellent examples of artists whose work relies heavily upon algorithms, systems, or sets of instructions. 
 
 ![Sol Lewitt Wall Drawing #1136, 2004, Scottish National Gallery](images/SolLewittScottishNationalGallery.jpg)
+
+*Sol Lewitt. Wall Drawing #1136, 2004.*
 
 ## Instructions
 

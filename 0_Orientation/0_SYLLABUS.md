@@ -90,16 +90,16 @@ SwiftProcessing is fundamentally different from Processing and p5.js. That said,
 
 ### 16-Week Course
 
-| Week  # | Module | Content Covered                                              | Exercise                                                     | Project                    |
-| ------- | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------- |
-| 1       | Intro  | **Orientation**<br />Syllabus. Useful resources. Outcomes for the course. Strategies for success in this course. | -                                                            | -                          |
-| 1, 2    | 1      | **Drawing with Code**<br />Coding without a computer. Drawing with basic shapes in Processing. | **Coding for Humans**                                        | **Drawing with Code**      |
-| 3, 4    | 2      | **Color, Loops, and Animation**<br />Coordinate system. Digital color. Built-in functions. Animation. Variables. Basic arithmetic. For loops & conditional logic. Relational & logical operators. Arrays. | **Animation & Interaction**<br /><br />**For Loop & Repetition** | None                       |
-| 5, 6    | 3      | **Motion, Collages, and Images**<br />Motion. Map and lerp. Random numbers. Sliders. | **Collage (Still)**                                          | **Mask**                   |
-| 7, 8    | 4      | **Functions and Expanded Cinema**<br />Functions. Switches.  | **Collage (Animated)**<br /><br />**Typography with Functions** | **Expanded Cinema Part 1** |
-| 9, 10   | 5      | **Classes, Objects, and More Arrays**<br />Objects and classes. Arrays. | **Typography with Objects**                                  | **Expanded Cinema Part 2** |
-| 11, 12  | 6      | **Using Objects to Create a Game**<br />Breaking a game into its object oriented parts. | **Game Elements**                                            | **Game**                   |
-| 13–16   | 7      | **Final Project**                                            | **Final Proposal**                                           | **Final Project**          |
+| Week  # | Module | Content Covered                                              | Exercise                                                     | Project                     |
+| ------- | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------- |
+| 1       | Intro  | **Orientation**<br />Syllabus. Useful resources. Outcomes for the course. Strategies for success in this course. | -                                                            | -                           |
+| 1, 2    | 1      | **Drawing with Code**<br />Coding without a computer. Drawing with basic shapes in Processing. | **Coding for Humans**                                        | **Drawing with Code**       |
+| 3, 4    | 2      | **Color, Loops, and Animation**<br />Coordinate system. Digital color. Built-in functions. Animation. Variables. Basic arithmetic. For loops & conditional logic. Relational & logical operators. Arrays. | **For Loop & Repetition**                                    | **Animation & Interaction** |
+| 5, 6    | 3      | **Motion, Collages, and Images**<br />Motion. Map and lerp. Random numbers. Sliders. | **Collage (Still)**                                          | **Mask**                    |
+| 7, 8    | 4      | **Functions and Expanded Cinema**<br />Functions. Switches.  | **Collage (Animated)**<br /><br />**Typography with Functions** | **Expanded Cinema Part 1**  |
+| 9, 10   | 5      | **Classes, Objects, and More Arrays**<br />Objects and classes. Arrays. | **Typography with Objects**                                  | **Expanded Cinema Part 2**  |
+| 11, 12  | 6      | **Using Objects to Create a Game**<br />Breaking a game into its object oriented parts. | **Game Elements**                                            | **Game**                    |
+| 13–16   | 7      | **Final Project**                                            | **Final Proposal**                                           | **Final Project**           |
 
 [Table of Contents](#Table-of-Contents)
 
