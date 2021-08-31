@@ -17,3 +17,4 @@ What does ***indeterminacy*** mean?
 Indeterminacy means that when we start a  process, we aren't certain how it's going to end. Many natural processes are indeterminate. For example, when I see a tree sapling, I can't fully know exactly what it will look like when it grows old. Its growth  depends on a process and many factors. You can look at your code in the  same way.
 
 [Next Section: Reading](1_READING.md)
+
