@@ -1,4 +1,4 @@
-[Previous Section: Exercise](2_EXERCISE.md)
+[Previous Section: Reading](1_READING.md)
 
 # Module 1: Exercise
 
