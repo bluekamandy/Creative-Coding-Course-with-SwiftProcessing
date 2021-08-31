@@ -10,11 +10,11 @@ Welcome to Creative Coding with Swift! This course is a free and open-source cou
 
 Creative Coding is way of learning how to program by creating visual art with computer graphics. It's an umbrella term that encompasses many different approaches to using **code as a medium for art**. You'll hear words like **generative** and **procedural** a lot. That basically means that we take the practice of making art, turn them into instructions, and sometimes introduce some randomness to make the outcomes unknown.
 
-There is a long history and many approaches to using code to create art. The goal of this course is to help you find your own approach and perspective.
+There is a long history and many approaches to using code to create art. The goal of this course is to help you find your own approach and perspective through hands-on practice.
 
 You can engage in creative coding through many different languages. There are creative coding frameworks written in Java, JavaScript, Python, C++, Rust, and Swift to name just a few. In this course we'll be using the Swift-flavored version of Processing called SwiftProcessing.
 
-The course content is licensed under a Creative Commons BY-NC-SA-4.0 license and all code is licensed under a MPL 2.0 license (See [License](#License) section).
+------
 
 ## Table of Contents
 
@@ -30,9 +30,25 @@ The course content is licensed under a Creative Commons BY-NC-SA-4.0 license and
   - [10-Week Course](#10-Week-Course)
 - [License](#License)
 
+------
+
 ## Hardware Requrements
 
+To develop code in this course you'll need a macOS computer that can run the latest version of Apple's Xcode development environment. The latest version of Xcode runs on macOS Big Sur, which has the following system requirements:
+
+- MacBook (2015 or later)
+- MacBook Air (2013 or later)
+- MacBook Pro (Late 2013 or later)
+- Mac mini (2014 or later)
+- iMac (2014 or later)
+- iMac Pro (2017 or later)
+- Mac Pro (2013 or later)
+
+([Source](https://support.apple.com/kb/sp833?locale=en_US))
+
 [Table of Contents](#Table-of-Contents)
+
+------
 
 ## Software Requirements
 
@@ -42,6 +58,8 @@ The course content is licensed under a Creative Commons BY-NC-SA-4.0 license and
 4. [The SwiftProcessing Empty App Template](https://github.com/masoodkamandy/Swift-Processing-Template-w-Playground/archive/refs/heads/main.zip)
 
 [Table of Contents](#Table-of-Contents)
+
+------
 
 ## Recommended Resources
 
@@ -76,6 +94,8 @@ SwiftProcessing is fundamentally different from Processing and p5.js. That said,
 
 [Table of Contents](#Table-of-Contents)
 
+------
+
 ## Course Content Overview and Schedule
 
 ### 16-Week Course
@@ -83,7 +103,7 @@ SwiftProcessing is fundamentally different from Processing and p5.js. That said,
 | Week  # | Module | Content Covered                                              | Exercise                                                     | Project                    |
 | ------- | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------- |
 | 1       | Intro  | **Orientation**<br />Syllabus. Useful resources. Outcomes for the course. Strategies for success in this course. | -                                                            | -                          |
-| 1, 2    | 1      | **Drawing with Code**<br />Coding without a computer. Drawing with basic shapes in Processing. | **Coding for Humans**<br /><br />**Drawing with Code**       | None                       |
+| 1, 2    | 1      | **Drawing with Code**<br />Coding without a computer. Drawing with basic shapes in Processing. | **Coding for Humans**                                        | **Drawing with Code**      |
 | 3, 4    | 2      | **Color, Loops, and Animation**<br />Coordinate system. Digital color. Built-in functions. Animation. Variables. Basic arithmetic. For loops & conditional logic. Relational & logical operators. Arrays. | **Animation & Interaction**<br /><br />**For Loop & Repetition** | None                       |
 | 5, 6    | 3      | **Motion, Collages, and Images**<br />Motion. Map and lerp. Random numbers. Sliders. | **Collage (Still)**                                          | **Mask**                   |
 | 7, 8    | 4      | **Functions and Expanded Cinema**<br />Functions. Switches.  | **Collage (Animated)**<br /><br />**Typography with Functions** | **Expanded Cinema Part 1** |
@@ -108,6 +128,17 @@ SwiftProcessing is fundamentally different from Processing and p5.js. That said,
 
 [Table of Contents](#Table-of-Contents)
 
+------
+
+## Acknowledgements
+
+> "If I have seen further it is by standing on the shoulders of Giants." —Isaac Newton, 1676
+
+This course was created using knowledge I've accrued through my experience from many, many teachers, mentors, friends, and other contacts who fed my excitement about code. Contained in all of these assignments, directly or indirectly, are their teachings, their support, or both, and for them I am grateful. These people include Derek Milne, Casey Reas, Adam Ferriss, Jon Kaufman, Zöe Wood, Jennifer Jacobs, James Welling, Golan Levin, Daniel Shiffmann, George Legrady, and Tobias Hollerer.
+
 ## License
 
-**Note:** This course is being developed for students at Pasadena City College and UC Santa Barbara, but it's being made available here for free as an open source course under a [Creative Commons BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/). This means you may use the content of this course for non-commercial purposes with attribution and as long as any modifications you make are also made open source under this same license.
+The course content (assignments and other written material) is available as free and open source course under a [Creative Commons BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/). This means you may use the content of this course for non-commercial purposes with attribution and as long as any modifications you make are also made open source under this same license.
+
+All code provided in this course are provided under a [GNU Lesser General Public Release (LGPL) 3.0](https://opensource.org/licenses/LGPL-3.0) license.
+
