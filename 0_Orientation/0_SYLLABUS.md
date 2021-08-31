@@ -14,8 +14,6 @@ There is a long history and many approaches to using code to create art. The goa
 
 You can engage in creative coding through many different languages. There are creative coding frameworks written in Java, JavaScript, Python, C++, Rust, and Swift to name just a few. In this course we'll be using the Swift-flavored version of Processing called SwiftProcessing.
 
-------
-
 ## Table of Contents
 
 - [Hardware Requrements](#Hardware-Requrements)
@@ -29,8 +27,6 @@ You can engage in creative coding through many different languages. There are cr
   - [16-Week Course](#16-Week-Course)
   - [10-Week Course](#10-Week-Course)
 - [License](#License)
-
-------
 
 ## Hardware Requrements
 
@@ -48,8 +44,6 @@ To develop code in this course you'll need a macOS computer that can run the lat
 
 [Table of Contents](#Table-of-Contents)
 
-------
-
 ## Software Requirements
 
 1. [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
@@ -58,8 +52,6 @@ To develop code in this course you'll need a macOS computer that can run the lat
 4. [The SwiftProcessing Empty App Template](https://github.com/masoodkamandy/Swift-Processing-Template-w-Playground/archive/refs/heads/main.zip)
 
 [Table of Contents](#Table-of-Contents)
-
-------
 
 ## Recommended Resources
 
@@ -94,8 +86,6 @@ SwiftProcessing is fundamentally different from Processing and p5.js. That said,
 
 [Table of Contents](#Table-of-Contents)
 
-------
-
 ## Course Content Overview and Schedule
 
 ### 16-Week Course
@@ -127,8 +117,6 @@ SwiftProcessing is fundamentally different from Processing and p5.js. That said,
 | 8–10    | 7      | **Final Project**                                            | **Final Proposal**                                           | **Final Project**          |
 
 [Table of Contents](#Table-of-Contents)
-
-------
 
 ## Acknowledgements
 

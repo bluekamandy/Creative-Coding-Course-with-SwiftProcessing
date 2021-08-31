@@ -2,17 +2,13 @@
 
 # Module 1: Project
 
-------
-
-## <img src="images/SophieTaeuberArp_1932.jpg" alt="SophieTaeuberArp_1932" style="zoom:50%;" />
+## <img src="images/SophieTaeuberArp_1932.jpg" alt="SophieTaeuberArp_1932" />
 
 Painting by Sophie Taeuber-Arp, 1932.
 
 ## Drawing with Code
 
 Drawing with code means interpreting the  shapes, colors and sizes in a work and translating them into a language  the computer understands.
-
-------
 
 ## Instructions
 
@@ -29,8 +25,6 @@ First **select an** **interesting/ambitious crop**, then load it into a program 
 Use at least the following functions for drawing:  `line()`, `quad()`, `rect()`, `ellipse()`, `arc()`, and `beginShape()`,  `endShape()`, `curveVertex()`, and `vertex()`.
 
 The goal for this project is to translate the  painting into code.
-
-------
 
 ## Student Examples
 
