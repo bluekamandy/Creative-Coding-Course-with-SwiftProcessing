@@ -6,7 +6,7 @@
 
 ![Chris_Marker](images/Chris_Marker.jpg)
 
-A still from La Jetée (1962) by Chris Marker. This science fiction film is composed entirely of film stills and its time-travel narrative is non-linear. The film is [viewable here](https://www.youtube.com/watch?v=fU99W-ZrIHQ).
+A still from *La Jetée* (1962) by Chris Marker. This science fiction film is composed entirely of film stills and its time-travel narrative is non-linear. The film is [viewable here](https://www.youtube.com/watch?v=fU99W-ZrIHQ).
 
 ## Introduction
 
