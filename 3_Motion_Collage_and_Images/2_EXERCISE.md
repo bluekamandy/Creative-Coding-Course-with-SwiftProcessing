@@ -80,5 +80,5 @@ Coming soon.
 | `frameRate(1)` is used and is located in the correct place.  | 10 pts |
 | Code is helpfully commented for your future self.            | 10 pts |
 
-[Previous Section: Project](3_PROJECT.md)
+[Next Section: Project](3_PROJECT.md)
 
