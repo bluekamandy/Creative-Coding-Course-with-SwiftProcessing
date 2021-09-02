@@ -10,7 +10,7 @@ Artwork by [Lorna Mills](http://www.digitalmediatree.com/sallymckay/LornaMillsIm
 
 ## Instructions
 
-Modify your collage from Module 3 to include motion.
+Modify your collage from Module 3 to include smooth animated motion.
 
 Develop a **clear idea** about how motion is utilized before writing the code. There are **three basic types of motion** you'll want to think about: **linear**, **random**,  **circular**. If you can think of other types of motion, you are welcome to expand on those three ideas. Remove the feature that generates a new collage each second  and integrate your new motion at 60 frames per second (delete  "frameRate(1);" from the code).
 
