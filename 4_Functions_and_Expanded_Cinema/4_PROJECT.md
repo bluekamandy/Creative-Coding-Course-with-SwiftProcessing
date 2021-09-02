@@ -6,7 +6,7 @@
 
 ![Chris_Marker](images/Chris_Marker.jpg)
 
-A still from *La Jetée* (1962) by Chris Marker. This science fiction film is composed entirely of film stills and its time-travel narrative is non-linear. The film is [viewable here](https://www.youtube.com/watch?v=fU99W-ZrIHQ).
+A still from *La Jetée* (1962) by Chris Marker.
 
 ## Introduction
 
@@ -16,11 +16,11 @@ A still from *La Jetée* (1962) by Chris Marker. This science fiction film is co
 
 In this assignment you will create a cinematic experience that moves  beyond the traditional definition of cinema and creates an experience  that changes every time its run.
 
-## Film
+## La Jetée
 
-The French filmmaker [Chris Marker](https://www.youtube.com/watch?v=1HrujmaJ5zU) is one of the pioneers of experimental cinema. **La Jetée** is a science fiction film created in 1962 using **only still images and a voice over**. The film later became the inspiration for Terry Gilliam's film ***12 Monkeys***.
+The French filmmaker [Chris Marker](https://www.youtube.com/watch?v=1HrujmaJ5zU) is one of the pioneers of experimental cinema. **La Jetée** is a science fiction film created in 1962 using **only still images and a voice over**. Its time-travel narrative is non-linear. The film later became the inspiration for Terry Gilliam's film ***12 Monkeys***. 
 
-Watch the film as inspiration for your project.
+Watch the film as inspiration for your project. The film is [viewable here](https://www.youtube.com/watch?v=fU99W-ZrIHQ).
 
 ## Instructions
 
