@@ -26,6 +26,8 @@ You can engage in creative coding through many different languages. There are cr
 - [Course Content Overview and Schedule](#Course-Content-Overview-and-Schedule)
   - [16-Week Course](#16-Week-Course)
   - [10-Week Course](#10-Week-Course)
+- [Acknowledgements](#Acknowledgements)
+- [Corrections](#Corrections)
 - [License](#License)
 
 ## Hardware Requrements
@@ -75,7 +77,7 @@ To develop code in this course you'll need a macOS computer that can run the lat
 
 ### Processing Resources
 
-SwiftProcessing is fundamentally different from Processing and p5.js. That said, the communities and resources available for those platforms can be enormously helpful.
+SwiftProcessing is fundamentally different from Processing and p5.js. That said, the communities and resources available for those platforms can be enormously helpful and once you learn the differences between Processing/p5.js and SwiftProcessing it can be easy to translate between the frameworks.
 
 - [processing.org](https://processing.org/)
 - [p5js.org](https://p5js.org/)
