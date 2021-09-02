@@ -4,7 +4,7 @@
 
 ## Collage (Animated)
 
-![John Stezaker](/Users/masoodkamandy/Desktop/Noble-Orphans_1_sm.gif)
+![Lorna Mills](images/Lorna_Mills.gif)
 
 Artwork by [Lorna Mills](http://www.digitalmediatree.com/sallymckay/LornaMillsImageDump/).
 
