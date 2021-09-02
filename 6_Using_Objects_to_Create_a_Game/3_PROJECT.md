@@ -36,7 +36,7 @@ You can follow whatever scoring rules you'd like to make the game your own.
 
 The score could be an object, and be programmed in object oriented notation. That means you will have **two instances of the score class** on your screen.
 
-#### **Step 4: Customize the look and feel of your game.**
+### Step 4: Customize the look and feel of your game.
 
 Brainstorm possible concepts that will make your game unique. First decide on a  look that you will use to set your digital tennis game apart. For full credit, **your game must have a unique look**.
 

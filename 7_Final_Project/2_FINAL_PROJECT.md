@@ -2,7 +2,7 @@
 
 # Module 7: Final Project
 
-## ![Sea of Solitude screen capture](/Users/masoodkamandy/Desktop/Sea_of_Solitude.png)
+## ![Sea of Solitude screen capture](images/Sea_of_Solitude.png)
 
 Screenshot from *Sea of Solitude*, a Games for Change award-wining game with a mental health theme.
 
