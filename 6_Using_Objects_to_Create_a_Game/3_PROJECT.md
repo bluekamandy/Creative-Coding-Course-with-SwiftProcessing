@@ -56,7 +56,7 @@ Then, think about ways to also make the game play slightly unique. **Possible wa
 
 **Important:** **Explain your concept** for your digital tennis game and how you've modified it **in your header** at the top of your code.
 
-#### **Step 5: Make your game self-contained.**
+### **Step 5: Make your game self-contained.**
 
 Think about the user of your game. Make it so that your user **never has to restart or reload your code**. Make sure when the game is over, the players are given the chance to play again, or restart the game.
 
