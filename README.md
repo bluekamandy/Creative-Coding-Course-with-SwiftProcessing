@@ -132,9 +132,13 @@ The single largest influence was having Casey Reas as a professor and advisor. M
 
 Others who I offer my gratitude to are Derek Milne, Ben Fry, Adam Ferriss, Chandler McWillians, Daniel Temkin, Jon Kaufman, Christopher O'Leary, April Kawaoka, Silvia Rigon, Melanie Willhide, Zaki Kamandy, Brad Larsen, Lauren Lee McCarthy, Zöe Wood, Jennifer Jacobs, Penelope Umbrico, James Welling, Cathy Opie, Kathy Ryan, Stephen Frailey, Golan Levin, Daniel Shiffmann, George Legrady, Tobias Hollerer, and Keiko *the* Shiba Inu.
 
+[Table of Contents](#Table-of-Contents)
+
 ## Corrections
 
 Please submit any correctiosn to me at masood@masoodkamandy.com. Mistakes are a natural part of a large project like this and I'm always appreciative of suggestions for corrections.
+
+[Table of Contents](#Table-of-Contents)
 
 ## License
 
@@ -143,6 +147,8 @@ The course content (assignments and other written material) is available as free
 All code provided in this course is provided under a [GNU Lesser General Public Release (LGPL) 3.0](https://opensource.org/licenses/LGPL-3.0) license.
 
 All artwork and images contained within this course are owned by their respective owners. If you'd like an image to be taken down, please write to me to request it be taken down at masood@masoodkamandy.com.
+
+[Table of Contents](#Table-of-Contents)
 
 [Next Section: Module 1](1_DrawingWithCode/README.md)
 
