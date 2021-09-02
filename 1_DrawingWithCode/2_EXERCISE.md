@@ -8,13 +8,13 @@ One of the most important words in computing is [**algorithm**](https://en.wikip
 
 <img src="images/Al-Khwarizmi_portrait.jpg" alt="Al-Khwarizmi_portrait"  />
 
-Everything we accomplish on a computer  works because of human-made algorithms. But algorithms don’t only exist in computing. Algorithms predate computing in many forms. We can think  of many sets of instructions as everyday algorithms. This includes **recipes**, **IKEA instructions** and the **directions from your home to school**.
+Everything we can do on a computer works because of human-made algorithms. But algorithms don’t only exist in computing. Algorithms predate computing in many forms. We can think  of many sets of instructions as everyday algorithms. This includes **recipes**, **IKEA instructions** and the **directions from your home to school**.
 
 <img src="images/Jacquard_Loom_David_Monniaux.jpg" alt="Jacquard_Loom_David_Monniaux"  />
 
-One historical artifact that uses algorithms and is a direct ancestor to computing is the [jacquard loom](https://en.wikipedia.org/wiki/Jacquard_loom), first demonstrated in 1801. This type of loom is used for weaving fabrics with complex patterns. ([Image source](https://commons.wikimedia.org/wiki/File:Jacquard_loom_p1040320.jpg))
+One historical artifact that is algorithmic and is a direct ancestor to computing is the [jacquard loom](https://en.wikipedia.org/wiki/Jacquard_loom), first demonstrated in 1801. This type of loom is used for weaving fabrics with complex patterns. ([Image source](https://commons.wikimedia.org/wiki/File:Jacquard_loom_p1040320.jpg))
 
-The loom simplified the process by using **punch cards** that determined how the machine would weave the fabric. The cards could be chained together and fabrics could be created and recreated using  the device.
+The loom simplified the process by using **punch cards** that determined how the machine would weave the fabric. The cards could be chained together and fabrics could be created and recreated using  the device. These punch cards are a precursor to computer programming and data storage devices.
 
 <img src="images/YokoOnoGrapefruit1964.jpg" alt="Yoko Ono, 1964, Grapefruit"  />
 
@@ -43,5 +43,13 @@ Your assignment is based on the [Conditional Drawing Manifesto](https://conditio
 The following are student examples used with permission:
 
 Coming soon.
+
+## Rubric
+
+| Criteria                                              | Points |
+| ----------------------------------------------------- | ------ |
+| Followed Instructions.                                | 10 pts |
+| Worded with a partner and included results.           | 10 pts |
+| Submission was scanned clearly as a PDF, JPG, or PNG. | 5 pts  |
 
 [Next Section: Project](3_PROJECT.md)

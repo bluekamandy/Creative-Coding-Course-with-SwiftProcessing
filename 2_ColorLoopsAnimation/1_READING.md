@@ -1,4 +1,4 @@
-[Previous Section: Introduction](0_INTRODUCTION.md)
+[Previous Section: Introduction](README.md)
 
 # Module 2: Reading
 

@@ -32,4 +32,13 @@ The following are student examples used with permission:
 
 Coming Soon.
 
-[Next Section: Module 2](../2_ColorLoopsAnimation/0_INTRODUCTION.md)
+## Rubric
+
+| Criteria                                                     | Points |
+| ------------------------------------------------------------ | ------ |
+| Uses the shape functions learned in the module to create an interesting/ambitious crop of the image. | 10 pts |
+| Uses color to accurately reproduce the image selected and demonstrates knowledge of using color in code. | 10 pts |
+| Code has a clear, descriptive header. Code is helpfully commented for your future self. | 5 pts  |
+
+[Next Section: Module 2](../2_ColorLoopsAnimation/README.md)
+

@@ -1,8 +1,10 @@
-[Previous Section: Project](2_EXERCISE.md)
+[Previous Section: Exercise](2_EXERCISE.md)
 
 # Module 2: Project
 
-## ![geometric_animation](images/geometric_animation.gif)
+## ![Carlos_Monterosa](images/Carlos_Monterosa.gif)
+
+Animated version of László Moholy-Nagy's *Composition A XXI* (1925) by Carlos Monterosa.
 
 ## Animation & Interaction
 
@@ -10,7 +12,7 @@ In the previous module you learned how to draw using code, but what you drew was
 
 ## Instructions
 
-Modify your code for *Module 1: Drawing with Code* to **make the image respond to touch**. Do this by adding variables to your program and controlling your custom variables with the built-in SwiftProcessing variables **touchX** and **touchY**.
+Modify your code for *Module 1: Drawing with Code* to **make the image respond to touch**. Do this by adding variables to your program and controlling your custom variables with the built-in SwiftProcessing variables **`touchX`** and **`touchY`**.
 
 This will enable your work to be **animated** and **interactive**.
 
@@ -22,4 +24,13 @@ The following are student examples used with permission:
 
 Coming Soon.
 
-[Next Section: Project](../3_Motion_Collage_and_Images/0_INTRODUCTION.md)
+## Rubric
+
+| Criteria                                                     | Points |
+| ------------------------------------------------------------ | ------ |
+| Uses touch interaction (`touchX` and `touchY` or the touch functions) to add interactivity to sketch. | 10 pts |
+| Uses clearly named variables to control all movements.       | 10 pts |
+| Code has a clear, descriptive header. Code is helpfully commented for your future self. | 5 pts  |
+
+[Next Section: Module 3](../3_Motion_Collage_and_Images/README.md)
+

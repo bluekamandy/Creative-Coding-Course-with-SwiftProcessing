@@ -14,7 +14,7 @@ Can you invent your own compositonal logic?
 
 With creative coding, we can turn these systems into code. 
 
-For this module will also need to fully understand how to use **map()** and **lerp()** in these sections. If you still need practice with these, this is your time to shine!
+For this module will also need to fully understand how to use **`map()`** and **`lerp()`** in these sections. If you still need practice with these, this is your time to shine!
 
 [Next Section: Reading](1_READING.md)
 
