@@ -1,6 +1,6 @@
 [Previous Section: Reading](1_READING.md)
 
-# Module : Exercise
+# Module 5: Exercise
 
 ## Generative Typography with Objects
 
