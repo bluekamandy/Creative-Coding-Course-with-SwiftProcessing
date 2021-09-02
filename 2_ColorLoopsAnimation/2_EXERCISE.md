@@ -39,7 +39,7 @@ You must **use a for loop**.
 
 You must also **incorporate randomness** in some way. Use your Playground textook chapter titled *Randomness* to guide you.
 
-This page will explain the `random()` function and will give you code examples.
+The `random()` function is explained on the *Randomness* chapter of your Playground Textbook.
 
 There must be **at least 100 circles** when the screen is totally filled, but feel free to make more if you need.
 
