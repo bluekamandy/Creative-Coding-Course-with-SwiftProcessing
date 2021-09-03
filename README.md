@@ -130,7 +130,7 @@ This course was created using knowledge I've accrued through my experience from 
 
 The single largest influence was having Casey Reas as a professor and mentor. Many of these assignments started out in his courses and served as the foundation of my own teaching career.
 
-Others who I offer my gratitude to are Derek Milne, Ben Fry, Adam Ferriss, Chandler McWillians, Daniel Temkin, Jon Kaufman, Christopher O'Leary, April Kawaoka, Silvia Rigon, Melanie Willhide, Zaki Kamandy, Brad Larsen, Lauren Lee McCarthy, Zöe Wood, Jennifer Jacobs, Penelope Umbrico, James Welling, Cathy Opie, Kathy Ryan, Stephen Frailey, Golan Levin, Daniel Shiffmann, George Legrady, Tobias Hollerer, and Keiko *the* Shiba Inu.
+Others who I offer my gratitude to are Derek Milne, Ben Fry, Adam Ferriss, Chandler McWillians, Daniel Temkin, Jon Kaufman, The Recurse Center, UCSB's Media Arts & Technology Dept., Christopher O'Leary, April Kawaoka, Silvia Rigon, Melanie Willhide, Zaki Kamandy, Brad Larsen, Lauren Lee McCarthy, Zöe Wood, Jennifer Jacobs, Penelope Umbrico, James Welling, Cathy Opie, Kathy Ryan, Stephen Frailey, Golan Levin, Daniel Shiffmann, George Legrady, Tobias Hollerer, and Keiko *the* Shiba Inu.
 
 [Table of Contents](#Table-of-Contents)
 
