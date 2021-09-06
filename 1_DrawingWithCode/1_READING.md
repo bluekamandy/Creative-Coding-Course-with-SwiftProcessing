@@ -13,5 +13,23 @@ The readings for this course will all be from the SwiftProcessing Playgrounds. T
 - Color Mode
 - Rotate, Translate, Scale
 
+## FORM+CODE: In Design, Art, and Architecture
+
+by Casey Reas, Chandler McWilliams, and LUST
+
+#### Chapter 1: What is Code
+
+- The Algorithm
+- Code and Computers
+- Thinking in Code
+- Code and the Arts
+- Why Code?
+
+#### Chapter 2: Form and Computers
+
+- Drawing with Computers
+- Controlling Form
+- Producing Form
+
 [Next Section: Exercise](2_EXERCISE.md)
 

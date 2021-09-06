@@ -14,5 +14,15 @@ This is the first time I've assigned a reading from The [Excellent] Swift Progra
 
 - [Functions](https://docs.swift.org/swift-book/LanguageGuide/Functions.html)
 
+## FORM+CODE: In Design, Art, and Architecture
+
+by Casey Reas, Chandler McWilliams, and LUST
+
+#### Chapter 5: Parameterize
+
+- Composition Systems
+- Variables
+- Control
+
 [Next Section: Exercise](2_EXERCISE.md)
 

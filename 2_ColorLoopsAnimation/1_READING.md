@@ -16,5 +16,17 @@ The readings for this course will all be from the SwiftProcessing Playgrounds. T
 - For and While Looops
 - Synthesis—Loops and Rotate
 
+## FORM+CODE: In Design, Art, and Architecture
+
+by Casey Reas, Chandler McWilliams, and LUST
+
+#### Chapter 3: Repeat
+
+- Qualities of Repetition
+-  The Computer's Talent
+- Modularity
+- Repetition Technique: Pattern
+- Repetition Technique: Recursion
+
 [Next Section: Exercise](2_EXERCISE.md)
 

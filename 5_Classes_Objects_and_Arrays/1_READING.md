@@ -16,5 +16,15 @@ We are expanding our reading from *The Swift Programing Guide* in this module.
 - [Properties](https://docs.swift.org/swift-book/LanguageGuide/Properties.html)
 - [Methods](https://docs.swift.org/swift-book/LanguageGuide/Methods.html)
 
+## FORM+CODE: In Design, Art, and Architecture
+
+by Casey Reas, Chandler McWilliams, and LUST
+
+#### Chapter 6: Visualize
+
+- Data Into Form
+- Dynamic Filters
+- Navigation
+
 [Next Section: Exercise](2_EXERCISE.md)
 

@@ -54,7 +54,7 @@ Coming soon.
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
 | Correctly uses a nested for loop to create a grid of objects. | 10 pts |
-| Skethc is animated, incorporates randomness, and the touch position changes the appearance of the grid or shapes. | 10 pts |
+| Sketch is animated, incorporates randomness, and the touch position changes the appearance of the grid or shapes. | 10 pts |
 | Code has a clear, descriptive header. Code is helpfully commented for your future self. | 5 pts  |
 
 [Previous Section: Project](3_PROJECT.md)

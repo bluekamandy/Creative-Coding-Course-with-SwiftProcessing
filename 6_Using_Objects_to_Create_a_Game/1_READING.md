@@ -8,5 +8,15 @@ The readings for this course will all be from the SwiftProcessing Playgrounds. T
 
 - Synthesis—A Game Using Classes
 
+## FORM+CODE: In Design, Art, and Architecture
+
+by Casey Reas, Chandler McWilliams, and LUST
+
+#### Chapter 7: Simulate
+
+- Modeling Physical Systems
+- Artificial Intelligence
+- Artificial Life and Genetic Algorithms
+
 [Next Section: Exercise](2_EXERCISE.md)
 

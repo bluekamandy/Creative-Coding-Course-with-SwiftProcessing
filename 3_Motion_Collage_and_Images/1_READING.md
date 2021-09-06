@@ -12,5 +12,15 @@ The readings for this course will all be from the SwiftProcessing Playgrounds. T
 - Images
 - Animated GIFs
 
+## FORM+CODE: In Design, Art, and Architecture
+
+by Casey Reas, Chandler McWilliams, and LUST
+
+#### Chapter 4: Transform
+
+- Geometric Transform
+- Numerical Transform
+- Transcoding
+
 [Next Section: Exercise](2_EXERCISE.md)
 
