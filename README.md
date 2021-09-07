@@ -1,8 +1,6 @@
 # Creative Coding with Swift
 
-Created by Prof. Masood Kamandy
-Pasadena City College
-University of California Santa Barbara
+Created by Prof. Masood Kamandy of Pasadena City College and the University of California Santa Barbara
 
 ## Introduction
 
@@ -18,6 +16,8 @@ You can engage in creative coding through many different languages. There are cr
 
 - [Hardware Requrements](#Hardware-Requrements)
 - [Software Requirements](#Software-Requirements)
+- [SwiftProcessing Templates and Framework Links](#SwiftProcessing-Templates-and-Framework-Links)
+- [Textbooks](#Textbooks)
 - [Recommended Resources](#Recommended-Resources)
   - [Code As Art Resources](#Code-As-Art-Resources)
   - [SwiftProcessing Resources](#SwiftProcessing-Resources)
@@ -26,6 +26,9 @@ You can engage in creative coding through many different languages. There are cr
 - [Course Content Overview and Schedule](#Course-Content-Overview-and-Schedule)
   - [16-Week Course](#16-Week-Course)
   - [10-Week Course](#10-Week-Course)
+- [Inclusion Statement](#Inclusion-Statement)
+- [Code of Conduct](#Code-of-Conduct)
+- [Course Grade Breakdown](#Course-Grade-Breakdown)
 - [Acknowledgements](#Acknowledgements)
 - [Corrections](#Corrections)
 - [License](#License)
@@ -49,9 +52,24 @@ To develop code in this course you'll need a macOS computer that can run the lat
 ## Software Requirements
 
 1. [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
-2. [The SwiftProcessing Library and Playgrounds](https://github.com/jjkaufman/SwiftProcessing/archive/refs/heads/main.zip)
-3. [The SwiftProcessing Empty Playground Template](https://github.com/masoodkamandy/Swift-Processing-Empty-Playground/archive/refs/heads/main.zip)
-4. [The SwiftProcessing Empty App Template](https://github.com/masoodkamandy/Swift-Processing-Template-w-Playground/archive/refs/heads/main.zip)
+
+## SwiftProcessing Templates and Framework Links
+
+For each assignment in this course, I recommend downloading a new **[Empty App Template](https://github.com/masoodkamandy/Swift-Processing-Template-w-Playground/archive/refs/heads/main.zip)** and renaming the outside folder to the title of your exercise or project for safe keeping. This template has everything you need to complete the course:
+
+<img src="/Users/masoodkamandy/Desktop/______TEACHING/Creative-Coding-Course-with-SwiftProcessing/images/Template.png" alt="A screenshot showing the user interface of Xcode. Within the navigation pane several files are outlined. First is the SwiftProcessing.playground file, which is an empty Playground for prototyping. Second is the Sketch.swift file which is for app development. Last is the Playgrounds folder which contains the SwiftProcessing Playground Textbook."  />
+
+### Additional Download Links
+
+1. [The SwiftProcessing Framework and Playground Textbook](https://github.com/jjkaufman/SwiftProcessing/archive/refs/heads/main.zip)
+2. [The SwiftProcessing Empty Playground Template](https://github.com/masoodkamandy/Swift-Processing-Empty-Playground/archive/refs/heads/main.zip): This is good for basic prototyping in an empty playground.
+
+[Table of Contents](#Table-of-Contents)
+
+## Textbooks
+
+- **The SwiftProcessing Playgrounds** (Free): These can be found in the SwiftProcessing package in the Playgrounds folder.
+- [**Form+Code**](http://formandcode.com/)
 
 [Table of Contents](#Table-of-Contents)
 
@@ -59,7 +77,6 @@ To develop code in this course you'll need a macOS computer that can run the lat
 
 ### Code As Art Resources
 
-- [Form+Code](http://formandcode.com/)
 - [Code as Creative Medium](https://mitpress.mit.edu/books/code-creative-medium)
 - [Generative Design](http://www.generative-gestaltung.de/2/)
 - [When the Machine Made Art](https://www.bloomsbury.com/us/when-the-machine-made-art-9781623562724)
@@ -120,6 +137,47 @@ SwiftProcessing is fundamentally different from Processing and p5.js. That said,
 
 [Table of Contents](#Table-of-Contents)
 
+## Inclusion Statement
+
+We all benefit from being exposed to and understanding different perspectives. It improves everything we make and makes the world more livable when we understand that our perspective is just one of many. To that end, my classroom is one where there will be no discrimination on the basis of race, color, religion (creed), gender, gender expression, age, national origin (ancestry), disability, marital status, sexual orientation, or military status. We will assume no previous knowledge and that everyone is a beginner and create a community of support so that all of us can thrive.
+
+[Table of Contents](#Table-of-Contents)
+
+## Code of Conduct
+
+In my classrooms I like to follow in the footsteps of the [p5.js's Community Statement and Code of Conduct](https://github.com/processing/p5.js/blob/main/CODE_OF_CONDUCT.md). This code of conduct sums up the values I try to adhere to in my classrooms and I expect students to stick to them too.
+
+> - **Be mindful of your language.** Any of the following behavior is unacceptable:
+>
+>   - Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability,  class, religion, culture, subculture, political opinion, age, skill  level, occupation, or background
+>   - Threats of violence
+>   - Deliberate intimidation
+>   - Sexually explicit or violent material that is not contextualized and preceded by a considerate warning
+>   - Unwelcome sexual attention
+>   - Stalking or following
+>   - Or any other kinds of harassment
+>
+>   Use your best judgement. If it will possibly make others uncomfortable, do not post it.
+>
+> - **Be respectful.** Disagreement is not an opportunity to attack someone else's thoughts or opinions. Although views may differ,  remember to approach every situation with patience and care.
+>
+> - **Be considerate.** Think about how your contribution will affect others in the community.
+>
+> - **Be open minded.** Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
+
+[Table of Contents](#Table-of-Contents)
+
+## Course Grade Breakdown
+
+| Category            | Weight |
+| ------------------- | ------ |
+| Projects            | 35%    |
+| Exercises           | 20%    |
+| In-Class Activities | 10%    |
+| Final Project       | 35%    |
+
+[Table of Contents](#Table-of-Contents)
+
 ## Acknowledgements
 
 > "If I have seen further it is by standing on the shoulders of Giants." —Isaac Newton, 1676
@@ -144,7 +202,7 @@ Please submit any correctiosn to me at masood@masoodkamandy.com. Mistakes are a 
 
 The course content (assignments and other written material) is available as free and open source course under a [Creative Commons BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/). This means you may use the content of this course for non-commercial purposes with attribution and as long as any modifications you make are also made open source under this same license.
 
-All code provided in this course is provided under a [GNU Lesser General Public Release (LGPL) 3.0](https://opensource.org/licenses/LGPL-3.0) license.
+All code provided in this course is provided under a [GNU Lesser General Public Release (LGPL) 2.1](https://opensource.org/licenses/LGPL-2.1) license.
 
 All artwork and images contained within this course are owned by their respective owners. If you'd like an image to be taken down, please write to me to request it be taken down at masood@masoodkamandy.com.
 
