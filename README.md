@@ -57,7 +57,7 @@ To develop code in this course you'll need a macOS computer that can run the lat
 
 For each assignment in this course, I recommend downloading a new **[Empty App Template](https://github.com/masoodkamandy/Swift-Processing-Template-w-Playground/archive/refs/heads/main.zip)** and renaming the outside folder to the title of your exercise or project for safe keeping. This template has everything you need to complete the course:
 
-<img src="/Users/masoodkamandy/Desktop/______TEACHING/Creative-Coding-Course-with-SwiftProcessing/images/Template.png" alt="A screenshot showing the user interface of Xcode. Within the navigation pane several files are outlined. First is the SwiftProcessing.playground file, which is an empty Playground for prototyping. Second is the Sketch.swift file which is for app development. Last is the Playgrounds folder which contains the SwiftProcessing Playground Textbook."  />
+<img src="images/Template.png" alt="A screenshot showing the user interface of Xcode. Within the navigation pane several files are outlined. First is the SwiftProcessing.playground file, which is an empty Playground for prototyping. Second is the Sketch.swift file which is for app development. Last is the Playgrounds folder which contains the SwiftProcessing Playground Textbook."  />
 
 ### Additional Download Links
 
