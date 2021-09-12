@@ -208,5 +208,5 @@ All artwork and images contained within this course are owned by their respectiv
 
 [Table of Contents](#Table-of-Contents)
 
-[Next Section: Module 1](1_DrawingWithCode/README.md)
+[Next Section: Frequently Asked Questions](FAQ.md)
 
