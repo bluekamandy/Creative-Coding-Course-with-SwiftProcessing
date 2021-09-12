@@ -3,15 +3,15 @@
 ## Table of Contents
 
 - [SwiftProcessing and Xcode](#swiftprocessing-and-xcode)
-  - [Where do I write my code?](#where-do-i-write-my-code?)
-  - [What is a Playground?](#what-is-a-playground?)
-  - [How do I run my Playground?](#how-do-i-run-my-playground?)
-  - [How do I run my Sketch.swift file?](#how-do-i-run-my-sketch.swift-file?)
-  - [What things should I check if my file isn't running?](#what-things-should-i-check-if-my-file-isn't-running?)
-  - [If nothing works and my template still won't run what else can I do?](#if-nothing-works-and-my-template-still-won't-run-what-else-can-i-do?)
+  - [Where do I write my code?](#where-do-i-write-my-code)
+  - [What is a Playground?](#what-is-a-playground)
+  - [How do I run my Playground?](#how-do-i-run-my-playground)
+  - [How do I run my Sketch.swift file?](#how-do-i-run-my-sketch.swift-file)
+  - [What things should I check if my file isn't running?](#what-things-should-i-check-if-my-file-isn't-running)
+  - [If nothing works and my template still won't run what else can I do?](#if-nothing-works-and-my-template-still-won't-run-what-else-can-i-do)
 - [macOS](#macos)
-  - [How do I take a screen grab?](#how-do-i-take-a-screen-grab?)
-  - [How do I create a zip file from a folder?](#how-do-i-create-a-zip-file-from-a-folder?)
+  - [How do I take a screen grab?](#how-do-i-take-a-screen-grab)
+  - [How do I create a zip file from a folder?](#how-do-i-create-a-zip-file-from-a-folder)
 
 ## SwiftProcessing and Xcode
 
