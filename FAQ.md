@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [SwiftProcessing and Xcode](#swiftprocessing-and-xcode)
+  - [Where can I find the textbook?](#where-can-I-find-the-textbook)
   - [Where do I write my code?](#where-do-i-write-my-code)
   - [What is a Playground?](#what-is-a-playground)
   - [How do I run my Playground?](#how-do-i-run-my-playground)
@@ -14,6 +15,16 @@
   - [How do I create a zip file from a folder?](#how-do-i-create-a-zip-file-from-a-folder)
 
 ## SwiftProcessing and Xcode
+
+### Where can I find the textbook?
+
+The textbook is a series of Xcode Playgrounds available in the SwiftProcessing package. When you download the  **[Empty App Template](https://github.com/masoodkamandy/Swift-Processing-Template-w-Playground/archive/refs/heads/main.zip)**, you will see the Playgrounds in the file structure. Within the Navigation sidebar open **SwiftProcessing > Playgrounds** and you will find 3 Playgrounds that you can expand. Each of these Playgrounds contain all of the textbook chapters.
+
+![A screenshot showing the user interface of Xcode. Within the navigation pane several files are outlined. First is the SwiftProcessing.playground file, which is an empty Playground for prototyping. Second is the Sketch.swift file which is for app development. Last is the Playgrounds folder which contains the SwiftProcessing Playground Textbook.](images/Template.png)
+
+When you expand the three Playground you'll see the 25 chapters you'll be reading.
+
+![The SwiftProcessing Playground textbook expanded to show all 25 chapters.](/Users/masoodkamandy/Desktop/______TEACHING/Creative-Coding-Course-with-SwiftProcessing/images/PlaygroundTextbook.png)
 
 ### Where do I write my code?
 
