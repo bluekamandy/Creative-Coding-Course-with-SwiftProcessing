@@ -28,7 +28,7 @@ The **[Empty App Template](https://github.com/masoodkamandy/Swift-Processing-Tem
 #### **`Sketch.swift`** is good for:
 
 - Writing an app that works on a phone or tablet.
-- Anything that requires speed or more complex.
+- Anything that requires speed or is more complex.
 - Any project where you need to use more than one file. You can use multiple `.swift` files as your project becomes more comlex.
 
 ![Screengrab of the Xcode intervace showing the Navigation panel, which lists the file structure in the template. Two files are highlighted are the SwiftProcessing.playground and the Sketch.swift files.](images/Template_crop.png)
@@ -49,7 +49,7 @@ Your playground has two buttons in the lower left-hand corner of the interface t
 
 ![Running your Playground.](images/Playground_Run.png)
 
-In the **bottom left corner of the window** there is a button that is either a ▶️ button or a ⏹ button. This is for running your code the first time and starting the compiler.
+In the **bottom left corner of the window** there is a button that is either a ▶️ button or a ⏹ button. This is for running your code the first time and starting/stopping the compiler.
 
 On the left side of the window beside the code there is a **blue ▶️ button**. This is for re-running your code quickly when you've made small changes. This will be faster than the other button.
 
