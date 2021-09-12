@@ -115,6 +115,14 @@ Getting the hang of an Xcode workflow can be intimidating at first, but once you
 
 - If the Playground is giving you console errors about missing methods, **try pressing the Play button a second time**. Sometimes when a project is first run, it takes a couple of plays before the Playground will see all of the available code.
 
+- If you're still getting errors about missing methods or an error that says SwiftProcessing was not found, then switch to the SwiftProcessing library build target, click build, and try to play the Playground again. Follow the steps in the image below:
+  ![RebuildLIbrary](images/RebuildLIbrary.png)
+
+  1. Select the **SwiftProcessing build target** in the choices to the right of the build and stop buttons.
+  2. Select any **target iOS device**.
+  3. Hit the build (▶️) button to **rebuild the library**.
+  4. Go back to your Playground and try to **play it again**.
+
 #### Sketch.swift
 
 - Make sure your code follows the following format similar to the code above. Notice that there doesn't need to be  quite as much code as in the Playground code:
