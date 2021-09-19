@@ -6,6 +6,7 @@ The readings for this course will all be from the SwiftProcessing Playgrounds. T
 
 ## **Basics**
 
+- Getting Started
 - Coordinates and Basic Shapes
 - Polygons and Curves
 - Stroke Caps and Joins

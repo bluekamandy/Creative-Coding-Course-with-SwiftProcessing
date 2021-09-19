@@ -32,7 +32,7 @@ Create a single paddle using the **`rect()` function** with the following charac
 
 #### **Challenge 2: Ball**
 
-Create a white ball using the **ellipse() function** with the following characteristics:
+Create a white ball using the **`ellipse()` function** with the following characteristics:
 
 - The ball **diameter** should be **20 px**.
 - The ball should **start on the left edge** and move at a **random angle** to the right.
@@ -50,9 +50,9 @@ Use your ball code and modify it in the following way:
 
 - Draw a **200 px square in the center** of the screen.
 
-- Write a **collision detection boolean function** called hitPaddle() in which you feed the location and size of the rectangle  and the location of the ball. This function will detect when the ball is inside the square and give a visual indication by changing the fill  color of the square. You will use an **if else statement** to change the fill of the square.
+- Write a **collision detection boolean function** called `hitPaddle()` in which you feed the location and size of the rectangle  and the location of the ball. This function will detect when the ball is inside the square and give a visual indication by changing the fill  color of the square. You will use an **if else statement** to change the fill of the square.
 
-  Your boolean function will look a little like this when you use it (it can  be written on a single line. Multiple lines used here for space.):
+  Your boolean function will look a little like this when you use it (it can be written on a single line. Multiple lines used here for space.):
 
 ```swift
 hitPaddle(paddleX, paddleY,

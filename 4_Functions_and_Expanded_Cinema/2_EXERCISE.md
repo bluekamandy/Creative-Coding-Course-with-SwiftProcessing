@@ -12,7 +12,7 @@ Artwork by [Lorna Mills](http://www.digitalmediatree.com/sallymckay/LornaMillsIm
 
 Modify your collage from Module 3 to include smooth animated motion.
 
-Develop a **clear idea** about how motion is utilized before writing the code. There are **three basic types of motion** you'll want to think about: **linear**, **random**,  **circular**. If you can think of other types of motion, you are welcome to expand on those three ideas. Remove the feature that generates a new collage each second  and integrate your new motion at 60 frames per second (delete  "frameRate(1);" from the code).
+Develop a **clear idea** about how motion is utilized before writing the code. There are **three basic types of motion** you'll want to think about: **linear**, **random**,  **circular**. If you can think of other types of motion, you are welcome to expand on those three ideas. Remove the feature that generates a new collage each second  and integrate your new motion at 60 frames per second (delete  `frameRate(1)` from the code).
 
 **Add a substantial comment at the top of the code that explains your idea for the workshop and what kind of compositional strategies you used.**
 
@@ -53,8 +53,6 @@ PlaygroundPage.current.needsIndefiniteExecution = true
 PlaygroundPage.current.setLiveView(MySketch())
 ```
 
-
-
 ### Random Motion
 
 ```swift
@@ -93,8 +91,6 @@ PlaygroundPage.current.setLiveView(MySketch())
 
 ```
 
-
-
 ### Circular Motion
 
 ```swift
@@ -127,8 +123,6 @@ class MySketch: Sketch, SketchDelegate {
     }
 }
 ```
-
-
 
 ## Student Examples
 

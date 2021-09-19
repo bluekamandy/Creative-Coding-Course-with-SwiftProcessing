@@ -22,7 +22,7 @@ First **select an** **interesting/ambitious crop**, then load it into a program 
 
 ### Step 3: Gather Coordinate and Color Data Using Photoshop or GIMP
 
-Use at least the following functions for drawing:  `line()`, `quad()`, `rect()`, `ellipse()`, `arc()`, and `beginShape()`,  `endShape()`, `curveVertex()`, and `vertex()`.
+Use at least the following functions for drawing: `strokeWeight()`, `noStroke()`, `line()`, `quad()`, `rect()`, `ellipse()`, `arc()`, and `beginShape()`,  `endShape()`, `curveVertex()`, and `vertex()`. For color, use the following functions: `background()`, `fill()`, `noFill()`,  and `stroke()`.
 
 The goal for this project is to translate the  painting into code.
 

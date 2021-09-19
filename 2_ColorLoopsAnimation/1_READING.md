@@ -10,7 +10,7 @@ The readings for this course will all be from the SwiftProcessing Playgrounds. T
 - Basic Arithmetic and Print
 - Randomness
 
-## Coordinate System
+## Interactivity and Control Flow
 
 - Conditional Logic
 - For and While Looops

@@ -76,7 +76,7 @@ Coming soon.
 | ------------------------------------------------------------ | ------ |
 | Your collage recreates itself every second from a pool of 10 images (at least). | 10 pts |
 | The `random()` function is used.                             | 10 pts |
-| Collage has a clear compositional logic.Code has a clear, descriptive header. Images are not just random on the canvas. | 10 pts |
+| Collage has a clear compositional logic. Code has a clear, descriptive header. Images are not just random on the canvas. | 10 pts |
 | `frameRate(1)` is used and is located in the correct place.  | 10 pts |
 | Code is helpfully commented for your future self.            | 10 pts |
 
