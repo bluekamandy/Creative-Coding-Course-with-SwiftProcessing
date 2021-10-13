@@ -47,14 +47,20 @@ There must be **at least 100 circles** when the screen is totally filled, but fe
 
 The following are student examples used with permission:
 
-Coming soon.
+![Scott_Wu_For_Loop](images/Scott_Wu_For_Loop.gif)
+
+Image by Scott Wu
+
+![Valarie_Chiu_ForLoop](images/Valarie_Chiu_For_Loop.gif)
+
+Image by Valarie Chiu
 
 ## Rubric
 
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
 | Correctly uses a nested for loop to create a grid of objects. | 10 pts |
-| Sketch is animated, incorporates randomness, and the touch position changes the appearance of the grid or shapes. | 10 pts |
+| Sketch is animated, incorporates randomness, and the touch position changes the appearance of the grid or shapes. Touch should be integrated in for loop. | 10 pts |
 | Code has a clear, descriptive header. Code is helpfully commented for your future self. | 5 pts  |
 
 [Previous Section: Project](3_PROJECT.md)

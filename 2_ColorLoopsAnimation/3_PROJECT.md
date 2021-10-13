@@ -22,7 +22,9 @@ Think about how the motion from your user's touch should aesthetically affect th
 
 The following are student examples used with permission:
 
-Coming Soon.
+![ScottWu](images/Scott_Wu.gif)
+
+Image by Scott Wu
 
 ## Rubric
 
