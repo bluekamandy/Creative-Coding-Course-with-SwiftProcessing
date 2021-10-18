@@ -136,9 +136,9 @@ Coming soon.
 | ------------------------------------------------------------ | ------ |
 | Your collage creates itself from a pool of 10 images (at least). | 5 pts  |
 | The `random()` function is used.                             | 5 pts  |
-| Collage has a clear compositional logic.Code has a clear, descriptive header. Images are not just random on the canvas. | 5 pts  |
+| Collage has a clear compositional logic. Images are not just random on the canvas. | 5 pts  |
 | `frameRate(1)` has been deleted and the different types of motion have been incorporated. | 5 pts  |
-| Code is helpfully commented for your future self.            | 5 pts  |
+| Code has a clear, descriptive header. Code is helpfully commented for your future self. | 5 pts  |
 
 [Next Section: Exercise 2](3_EXERCISE.md)
 
