@@ -34,9 +34,13 @@ Another inspiration can come from the ***Choose Your Own Adventure*** series of 
 
 ![download](images/Choose_Your_Own_Adventure.jpg)
 
-Submit both inspiration/research and process images (screen shots and scans of sketches) and your finished file. You can simply **zip** it all in a single folder.
+## Deliverables for Part 1
 
-**No pre-made fonts for this assignment.** Your typography should be composed of all of the line/shape functions we have learned so far or any other method for creating primitive shapes you have researched.
+**Submit:**
+
+1. Flowchart, sketches, and/or your prototype that shows the overall structure of your cinematic experience.
+2. Submit a folder with all of the images (10 minimum) you'll use in all of your scenes (6 minimum).
+3. Submit a skeleton codebase populated with one example scene that shows how you will use a switch statement, if statement, or a combination of both within your project.
 
 ## Recommended Approach
 
