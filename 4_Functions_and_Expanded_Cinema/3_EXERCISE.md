@@ -39,7 +39,7 @@ Coming soon.
 
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| Project has 3 letter functions, with a 4th function that calls the other 3 functions together. | 10 pts |
+| Project has 3 letter functions with parameters that make sense and a 4th function with paremeters that calls the other 3 functions together. | 10 pts |
 | Typographic research was included with the project.          | 5 pts  |
 | Updates once per second with randomness.                     | 5 pts  |
 | Code is helpfully commented for your future self.            | 5 pts  |
