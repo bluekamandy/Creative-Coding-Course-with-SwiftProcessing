@@ -37,6 +37,8 @@ Project names should be in the following format:
 
 `LastFirst_AssignmentName.zip`
 
+**Note:** Change the title of the zip file *after* it has been zipped. This preserves the original name of the project.
+
 [Table of Contents](#Table-of-Contents)
 
 ### What header should I always place at the top of my code?
