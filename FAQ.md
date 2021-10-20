@@ -2,6 +2,11 @@
 
 ## Table of Contents
 
+- [Turning In Your Assignments](#Turning-In-Your-Assignments)
+  - [What deliverables are expected with each programming assignment?](#What-deliverables-are-expected-with-each-programming-assignment)
+  - [What should I name my zipped exercise and project files?](#What-should-I-name-my-zipped-exercise-and-project-files)
+  - [What header should I always place at the top of my code?](#What-header-should-I-always-place-at-the-top-of-my-code)
+  - [How should I archive my own projects?](#How-should-I-archive-my-own-projects)
 - [SwiftProcessing and Xcode](#swiftprocessing-and-xcode)
   - [Where can I find the textbook?](#where-can-I-find-the-textbook)
   - [Where do I write my code?](#where-do-i-write-my-code)
@@ -14,6 +19,68 @@
   - [How do I take a screen grab?](#how-do-i-take-a-screen-grab)
   - [How do I create a zip file from a folder?](#how-do-i-create-a-zip-file-from-a-folder)
 
+## Turning In Your Assignments
+
+### What deliverables are expected with each programming assignment?
+
+Unless otherwise stated, **you should be zipping your entire template folder and turning that in**. The Xcode template needs to be together in order to function, so zipping it to turn in preserves all of the relationships within the file.
+
+The kinds of files that are in this structure that need to be present for projects to function are the SwiftProcessing library, images, permissions files, and information that Xcode needs to be able to compile your project.
+
+**Important:** *Do not* just turn in a `.swift` or Playground file. Projects turned in like this will receive no credit.
+
+[Table of Contents](#Table-of-Contents)
+
+### What should I name my zipped exercise and project files?
+
+Project names should be in the following format:
+
+`LastFirst_AssignmentName.zip`
+
+[Table of Contents](#Table-of-Contents)
+
+### What header should I always place at the top of my code?
+
+Headers give information to your professor and to your future self about projects. Use the format below for all of your assignments:
+
+```swift
+/*
+ * Course: DMA 64 - Creative Coding for Mobile Devices
+ * Assignment: Assignment Name
+ *
+ * by First Last
+ * 
+ * Initiated: 1/1/1
+ * Last updated: 1/1/1
+ * 
+ * DEVICE TESTED ON: iPhone 13 Simulator
+ *
+ * CITATIONS: List all sources you used for this assignment.
+ *
+ * NOTE: This is where you write any notes you would like
+ * to leave yourself or others using your code.
+ * 
+ * */
+```
+
+[Table of Contents](#Table-of-Contents)
+
+### How should I archive my own projects?
+
+The work you do in this class is precious and depending on where you end up going after this course, it may be useful to you in the future. It's important to store and keep track of your work in a system that works for you. Here is one suggestion for a system that might be useful to you.
+
+When starting a project, rename the external folder of the template with the following format:
+
+`YYYYMMDD_ProjectName`
+
+For example, a project called DrawingMachine that I started on October 20, 2021 would have an external folder called:
+
+`20211021_DrawingMachine`
+
+This ensures that when you navigate to a folder, all of your files are in order by the date that you started them and you don't have to spend a lot of time searching around a long list.
+
+[Table of Contents](#Table-of-Contents)
+
 ## SwiftProcessing and Xcode
 
 ### Where can I find the textbook?
@@ -24,7 +91,7 @@ The textbook is a series of Xcode Playgrounds available in the SwiftProcessing p
 
 When you expand the three Playground you'll see the 25 chapters you'll be reading.
 
-![The SwiftProcessing Playground textbook expanded to show all 25 chapters.](/Users/masoodkamandy/Desktop/______TEACHING/Creative-Coding-Course-with-SwiftProcessing/images/PlaygroundTextbook.png)
+![The SwiftProcessing Playground textbook expanded to show all 25 chapters.](images/PlaygroundTextbook.png)
 
 ### Where do I write my code?
 
