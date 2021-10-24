@@ -39,7 +39,7 @@ Another inspiration can come from the ***Choose Your Own Adventure*** series of 
 **Submit:**
 
 1. Flowchart, sketches, and/or your prototype that shows the overall structure of your cinematic experience.
-2. Submit a folder with all of the images (10 minimum) you'll use in all of your scenes (6 minimum).
+2. Submit a folder with all of the images (12 minimum) you'll use in all of your scenes (6 minimum).
 3. Submit a skeleton codebase populated with one example scene that shows how you will use a switch statement, if statement, or a combination of both within your project.
 
 ## Recommended Approach
