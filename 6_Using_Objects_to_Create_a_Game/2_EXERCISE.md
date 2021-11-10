@@ -20,7 +20,7 @@ A digital tennis game like Pong is a great way of thinking through the idea of *
 
 We're going to divide the creation of a digital tennis game into 3 challenges and then put them all together to create the final game.
 
-#### **Challenge 1: Paddle**
+#### **Challenge 1: Paddle Class**
 
 Create a single paddle using the **`rect()` function** with the following characteristics:
 
@@ -30,7 +30,7 @@ Create a single paddle using the **`rect()` function** with the following charac
 - The paddle should stay **fixed in its y-position**.
 - Use the **`constrain()` function** to constrain your y-position so that the paddle does not move off the screen.
 
-#### **Challenge 2: Ball**
+#### **Challenge 2: Ball Class**
 
 Create a white ball using the **`ellipse()` function** with the following characteristics:
 
@@ -40,7 +40,7 @@ Create a white ball using the **`ellipse()` function** with the following charac
 - If the ball hits the right side, it should **restart** on the left side again.
 - Your **bounce detector** could be a **boolean function**. Another way of saying this is to **write a function that returns a boolean value**. Feed the location of the ball in along with its diameter and if it returns true that means the ball has hit a wall (top or bottom) and you can reverse the direction. False means no the ball hasn't hit a wall, so nothing happens.
 
-#### **Challenge 3: Collision**
+#### **Challenge 3: Collision Function**
 
 Use your ball code and modify it in the following way:
 
@@ -71,7 +71,7 @@ Coming soon.
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
 | All 3 challenges have been completed and function properly with expected behavior. | 10 pts |
-| Code is written in a way that it can be reused. Use of global variables has been minimized, and when appropriate functions and/or objects have been implemented. | 10 pts |
+| Code is written in a way that it can be reused, i.e. with classes and functions. Use of global variables has been minimized, and when appropriate functions and/or objects have been implemented. | 10 pts |
 | Code is helpfully commented for your future self.            | 5 pts  |
 
 [Next Section: Project](3_PROJECT.md)
