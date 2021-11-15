@@ -18,7 +18,7 @@ A digital tennis game like Pong is a great way of thinking through the idea of *
 
 ## Instructions
 
-We're going to divide the creation of a digital tennis game into 3 challenges and then put them all together to create the final game.
+We're going to divide the creation of a digital tennis game into 3 challenges which should be coded as **individual sketches**. In the next project, we'll put them all together to create the final game.
 
 #### **Challenge 1: Paddle Class**
 
@@ -70,7 +70,7 @@ Coming soon.
 
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| All 3 challenges have been completed and function properly with expected behavior. | 10 pts |
+| All 3 challenges have been completed as individual sketches and function properly with expected behavior described in the assignment prompt. | 10 pts |
 | Code is written in a way that it can be reused, i.e. with classes and functions. Use of global variables has been minimized, and when appropriate functions and/or objects have been implemented. | 10 pts |
 | Code is helpfully commented for your future self.            | 5 pts  |
 
