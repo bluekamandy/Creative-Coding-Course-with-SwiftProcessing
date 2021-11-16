@@ -71,9 +71,9 @@ Coming soon.
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
 | Game is fully functional and does not require restarting the code. | 50 pts |
-| Game is fully customized to reflect your concept. A comment at the top of your code explains in detail what your concept was and how the game has been customized. | 20 pts |
+| Game is fully customized to reflect your concept. A comment at the top of your code explains in detail what your concept was and how the game has been customized. Also leave a comment with any instructions for how to play. | 20 pts |
 | Contains all required code and all components are written in object oriented notation, with the exception of collision detection which can be a function. | 20 pts |
-| Code has a descriptive header that includes your name and the project information. Code is helpfully commented for your future self. | 10 pts |
+| Code has a descriptive header that includes your name and the project information. Code is helpfully commented for your future self. If you worked in a group, describe who did what in your header. | 10 pts |
 
 [Next Section: Module 7](../7_Final_Project/README.md)
 

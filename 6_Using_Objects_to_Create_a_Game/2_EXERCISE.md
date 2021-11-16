@@ -72,7 +72,7 @@ Coming soon.
 | ------------------------------------------------------------ | ------ |
 | All 3 challenges have been completed as individual sketches and function properly with expected behavior described in the assignment prompt. | 10 pts |
 | Code is written in a way that it can be reused, i.e. with classes and functions. Use of global variables has been minimized, and when appropriate functions and/or objects have been implemented. | 10 pts |
-| Code is helpfully commented for your future self.            | 5 pts  |
+| Code is helpfully commented for your future self. If you worked in a group, describe who did what in your header. | 5 pts  |
 
 [Next Section: Project](3_PROJECT.md)
 
