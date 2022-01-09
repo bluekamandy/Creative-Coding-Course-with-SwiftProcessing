@@ -23,10 +23,10 @@ For 20% of your final project's grade, you'll need to share your **first week's 
 
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| **Basic Proposal**—Submission is at least 300 words, includes a word count, and is a descriptive basic proposal, either as a text file, or pdf. | 5 pts  |
-| **Timeline**—A timeline for how you will be using the final weeks of the course with  significant milestones and check-ins with your professor. | 5 pts  |
-| **Preliminary Research**—Submission includes a description of some preliminary research with  specific and substantive explanation why these sources are being used. | 5 pts  |
-| **Documentation of Prototype**—Submission includes some documentation of prototypes, tests, storyboards, or ideas mapped out in a visual and descriptive form. | 5 pts  |
+| **Basic Proposal**<br />- Submission is **at least 300 words**.<br />- You've included a **word count** at the bottom of your text like this: [330 words].<br />- Is a **descriptive basic proposal** as a PDF. | 1 pts  |
+| **Timeline**<br />- A **timeline** for how you will be using the final weeks of the course.<br />- **Significant milestones** and **check-ins** with your professor or peers are listed. | 1 pts  |
+| **Preliminary Research**<br />- Submission includes a description of some **preliminary research**.<br />- List has specific and substantive **explanation** why these sources are being used. | 1 pts  |
+| **Documentation of Prototype**<br />- Submission includes some **documentation of prototypes, tests, storyboards, or ideas** mapped out in a visual and descriptive form.<br />- All documentation **uploaded as PDFs** and presented neatly in the correct orientation. | 1 pts  |
 
 [Next Section: Final Project](2_FINAL_PROJECT.md)
 
