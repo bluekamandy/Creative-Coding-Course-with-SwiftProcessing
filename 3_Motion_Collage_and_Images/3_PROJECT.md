@@ -59,7 +59,7 @@ Mask by Dana Nugumanova.
 
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| **Technique**<br />- Provided **template** file is used.<br />- **Minim library** is properly added to Processing. | 1 pt   |
+| **Technique**<br />- Provided **template** file is used.<br />- **SwiftProcessing sound functions** are properly used to interact with microphone. | 1 pt   |
 | - Volume is controlled using the **`map()`** function.<br />- **Easing** is implemented with the **`lerp()`** function (see instructions and example code). | 1 pt   |
 | **Conceptual Understanding**<br />- You created a storyboard and sketches to plan out your mask and its motion.<br />- You wrote a script of at least 250 words for your performance and included it with your files. | 1 pt   |
 | **Presentation**<br />- Code includes **instructions** and runs without any adjustment or intervention.<br />- You provided a **link** to your project on a **video sharing website**. | 1 pt   |
