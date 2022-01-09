@@ -2,7 +2,7 @@
 
 # Module 2: Project
 
-## ![Carlos_Monterosa](images/Carlos_Monterosa.gif)
+![Carlos_Monterosa](images/Carlos_Monterosa.gif)
 
 Animated version of László Moholy-Nagy's *Composition A XXI* (1925) by Carlos Monterosa.
 
@@ -28,11 +28,13 @@ Image by Scott Wu
 
 ## Rubric
 
+**Note:** Code must function in order to earn credit.
+
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| Uses touch interaction (`touchX` and `touchY` or the touch functions) to add interactivity to sketch. | 10 pts |
-| Uses clearly named variables to control all movements.       | 10 pts |
-| Code has a clear, descriptive header. Code is helpfully commented for your future self. | 5 pts  |
+| **Technique**<br />- Uses **mouse** (**`touchX`** and **`touchY`** or the **`touchStarted`, `touchMoved`, or `touchEnded`** functions).<br />- Uses **keyboard** (the **`key`** variable or **`keyPressed`** function).<br />- Uses **clearly named variables to control all movements**. Variable names should refer to their function. Avoid single letter variable names and serial numbers (x, y, z, x1, x2, x3, etc.). They should be more descriptive. | 1 pts  |
+| **Conceptual Understanding**<br />- Sketch is **interactive**.<br />- Interactivity adds **basic, input-based animation** to the sketch. | 1 pts  |
+| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (select all and Control-i) so that tabs are correct.<br />- The code is presented neatly **without** commented out code. | 1 pts  |
 
 [Next Section: Module 3](../3_Motion_Collage_and_Images/README.md)
 
