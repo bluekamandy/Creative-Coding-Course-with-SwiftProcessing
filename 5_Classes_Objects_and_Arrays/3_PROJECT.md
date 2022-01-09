@@ -23,15 +23,14 @@ Coming soon.
 
 ## Rubric
 
+**Note:** Code must function in order to earn credit.
+
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| Includes any flowcharts, prototypes, or other planning for your project. | 10 pts |
-| A minimum of 12 images have been used with at least six distinct scenes. | 10 pts |
-| Story loops and plays differently every time.                | 10 pts |
-| Code is fully functional without any intervention and instructions are provided where necessary. | 10 pts |
-| Code has a descriptive header that includes your name and the project information. Code is helpfully commented for your future self. | 10 pts |
-
-
+| **Technique**<br />- Code keeps **accurate track of the user's progress** through the narrative.<br />- Either **user input or a timer** is used to move the story forward. | 1 pt   |
+| - Code is **fully functional** without any intervention and **instructions are provided** in the header. | 1 pt   |
+| **Conceptual Understanding**<br />- Story loops and plays differently every time. | 1 pt   |
+| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />Code is **auto-formatted** (select all and control-i) so that tabs are correct.<br />- The code is presented neatly **without** commented out code. | 1 pt   |
 
 [Next Section: Module 6](../6_Using_Objects_to_Create_a_Game/README.md)
 

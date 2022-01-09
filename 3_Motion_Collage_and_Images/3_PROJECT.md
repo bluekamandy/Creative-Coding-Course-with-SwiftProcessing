@@ -41,6 +41,8 @@ Use a video sharing service like YouTube to upload your creation and share your 
 
 ## Student Examples
 
+**Note:** The examples I provide are meant to only give you an idea of what's expected. **Do not copy them. All of your ideas in this course must be original.** Create your own approach to all assignments. Copies will receive no credit.
+
 The following are student examples used with permission:
 
 ![Vivan Rowe](images/Vivian_Rowe_Mask.gif).
@@ -53,13 +55,15 @@ Mask by Dana Nugumanova.
 
 ## Rubric
 
+**Note:** Code must function in order to earn credit.
+
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| You created a storyboard and sketches to plan out your mask and its motion. | 10 pts |
-| You wrote a script of at least 250 words for your performance and included it with your files. | 10 pts |
-| You provided a link to your project on a video sharing website. | 10 pts |
-| Code includes instructions and runs without any adjustment or intervention. | 10 pts |
-| Code is helpfully commented for your future self.            | 10 pts |
+| **Technique**<br />- Provided **template** file is used.<br />- **Minim library** is properly added to Processing. | 1 pt   |
+| - Volume is controlled using the **`map()`** function.<br />- **Easing** is implemented with the **`lerp()`** function (see instructions and example code). | 1 pt   |
+| **Conceptual Understanding**<br />- You created a storyboard and sketches to plan out your mask and its motion.<br />- You wrote a script of at least 250 words for your performance and included it with your files. | 1 pt   |
+| **Presentation**<br />- Code includes **instructions** and runs without any adjustment or intervention.<br />- You provided a **link** to your project on a **video sharing website**. | 1 pt   |
+| - Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (select all and control-i) so that tabs are correct.<br />- The code is presented neatly **without** commented out code.Code is helpfully commented for your future self. | 1 pt   |
 
 [Next Section: Module 4](../4_Functions_and_Expanded_Cinema/README.md)
 

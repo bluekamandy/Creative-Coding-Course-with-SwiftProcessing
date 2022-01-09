@@ -45,6 +45,8 @@ There must be **at least 100 circles** when the screen is totally filled, but fe
 
 ## Student Examples
 
+**Note:** The examples I provide are meant to only give you an idea of what's expected. **Do not copy them. All of your ideas in this course must be original.** Create your own approach to all assignments. Copies will receive no credit.
+
 The following are student examples used with permission:
 
 ![Scott_Wu_For_Loop](images/Scott_Wu_For_Loop.gif)
@@ -62,7 +64,7 @@ Image by Valarie Chiu
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
 | **Technique**<br />- Correctly uses a **nested for loop** to create a grid of objects. | 1 pts  |
-| **Conceptual Understanding**<br />- Sketch is **animated**<br />- Incorporates **randomness**<br />- **Mouse position** changes the appearance of the grid or shapes. Mouse should be integrated in for loop. | 1 pts  |
-| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (select all and Control-i) so that tabs are correct.<br />- The code is presented neatly **without** commented out code. | 1 pts  |
+| **Conceptual Understanding**<br />- Sketch is **animated**<br />- Incorporates **randomness**<br />- **Touch position** changes the appearance of the grid or shapes. Touch should be integrated in for loop. | 1 pts  |
+| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (select all and control-i) so that tabs are correct.<br />- The code is presented neatly **without** commented out code. | 1 pts  |
 
 [Next Section: Project](3_PROJECT.md)

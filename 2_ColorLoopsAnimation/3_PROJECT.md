@@ -20,6 +20,8 @@ Think about how the motion from your user's touch should aesthetically affect th
 
 ## Student Examples
 
+**Note:** The examples I provide are meant to only give you an idea of what's expected. **Do not copy them. All of your ideas in this course must be original.** Create your own approach to all assignments. Copies will receive no credit.
+
 The following are student examples used with permission:
 
 ![ScottWu](images/Scott_Wu.gif)
@@ -32,9 +34,9 @@ Image by Scott Wu
 
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| **Technique**<br />- Uses **mouse** (**`touchX`** and **`touchY`** or the **`touchStarted`, `touchMoved`, or `touchEnded`** functions).<br />- Uses **keyboard** (the **`key`** variable or **`keyPressed`** function).<br />- Uses **clearly named variables to control all movements**. Variable names should refer to their function. Avoid single letter variable names and serial numbers (x, y, z, x1, x2, x3, etc.). They should be more descriptive. | 1 pts  |
+| **Technique**<br />- Uses **touch** (**`touchX`** and **`touchY`** or the **`touchStarted`, `touchMoved`, or `touchEnded`** functions).<br />- Uses **keyboard** (the **`key`** variable or **`keyPressed`** function).<br />- Uses **clearly named variables to control all movements**. Variable names should refer to their function. Avoid single letter variable names and serial numbers (x, y, z, x1, x2, x3, etc.). They should be more descriptive. | 1 pts  |
 | **Conceptual Understanding**<br />- Sketch is **interactive**.<br />- Interactivity adds **basic, input-based animation** to the sketch. | 1 pts  |
-| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (select all and Control-i) so that tabs are correct.<br />- The code is presented neatly **without** commented out code. | 1 pts  |
+| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (select all and control-i) so that tabs are correct.<br />- The code is presented neatly **without** commented out code. | 1 pts  |
 
 [Next Section: Module 3](../3_Motion_Collage_and_Images/README.md)
 

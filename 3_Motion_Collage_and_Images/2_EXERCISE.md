@@ -66,19 +66,25 @@ There are a couple of SwiftProcessing functions you will definitely want to use 
 
 ## Student Examples
 
+**Note:** The examples I provide are meant to only give you an idea of what's expected. **Do not copy them. All of your ideas in this course must be original.** Create your own approach to all assignments. Copies will receive no credit.
+
 The following are student examples used with permission:
 
-Coming soon.
+![WuScott_CollageEngine](images/WuScott_CollageEngine.gif)
+
+Sketch by Scott Wu.
 
 ## Rubric
 
+**Note:** Code must function in order to earn credit.
+
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| Your collage recreates itself every second from a pool of 10 images (at least). | 10 pts |
-| The `random()` function is used.                             | 10 pts |
-| Collage has a clear compositional logic. Code has a clear, descriptive header. Images are not just random on the canvas. | 10 pts |
-| `frameRate(1)` is used and is located in the correct place.  | 10 pts |
-| Code is helpfully commented for your future self.            | 10 pts |
+| **Technique**<br />- The **`random()`** function is used correctly. | 1 pt   |
+| -**`frameRate(1)`** is used and is located in the correct place (in `setup()`). | 1 pt   |
+| **Conceptual Understanding**<br />- Your collage recreates itself **every second** from a **pool of 10 images** (at least). | 1 pt   |
+| - Collage has a **clear compositional logic**. Images are **not** just randomly placed or combined. | 1 pt   |
+| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (select all and control-i) so that tabs are correct.<br />- The code is presented neatly **without** commented out code.Code is helpfully commented for your future self. | 1 pt   |
 
 [Next Section: Project](3_PROJECT.md)
 

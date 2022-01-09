@@ -72,17 +72,47 @@ The video is [available on UbuWeb](https://ubu.com/film/jafa_message.html).
 
 ## Student Examples
 
+**Note:** The examples I provide are meant to only give you an idea of what's expected. **Do not copy them. All of your ideas in this course must be original.** Create your own approach to all assignments. Copies will receive no credit.
+
+For finished Expanded Cinema examples, *see the Module 5 project page*.
+
 The following are student examples used with permission:
 
-Coming soon.
+### Flowchart Example
+
+![MorseCat_ExpandedCinema_Flowchart](/Users/masoodkamandy/Desktop/_LAYER/____TEACHING/Creative-Coding-Course-with-Processing/4_Functions_and_Expanded_Cinema/images/MorseCat_ExpandedCinema_Flowchart.png)
+
+Flowchart by Cat Morse. In Cat's example she has a single beginning and ending, but 3 possible middle portions. This is one way of approaching this assignment.
+
+![ZhangZiyu_ExpandedCinema_Flowchart](/Users/masoodkamandy/Desktop/_LAYER/____TEACHING/Creative-Coding-Course-with-Processing/4_Functions_and_Expanded_Cinema/images/ZhangZiyu_ExpandedCinema_Flowchart.png)
+
+Flowchart by Ziyu Zhang. This is a flow chart with a single beginning and 3 different endings. There are many different possible paths through the narrative.
+
+![SiapnoGeorgia_FlowChart](/Users/masoodkamandy/Desktop/_LAYER/____TEACHING/Creative-Coding-Course-with-Processing/4_Functions_and_Expanded_Cinema/images/SiapnoGeorgia_FlowChart.png)
+
+Flowchart/prototype by Georgia Siapno. Georgia's approach was to create a flowchart that also planned out the interactive experience visually. It operates simultaneously as a flowchart and a prototype to talk about what it's like visually to walk through the software.
+
+### Completed Project Examples
+
+![PuzioEsme_ExpandedCinema](/Users/masoodkamandy/Desktop/_LAYER/____TEACHING/Creative-Coding-Course-with-Processing/4_Functions_and_Expanded_Cinema/images/PuzioEsme_ExpandedCinema.png)
+
+Sketch by Esme Puzio. In this expanded cinema narrative, the user navigates using the keyboard through a surreal landscape. The images are taken from Google Street View and modified for surreal effect. The goal is to find a magic eight ball hidden somewhere in the dream.
+
+![SiapnoGeorgia_ExpandedCinema](/Users/masoodkamandy/Desktop/_LAYER/____TEACHING/Creative-Coding-Course-with-Processing/4_Functions_and_Expanded_Cinema/images/SiapnoGeorgia_ExpandedCinema.gif)
+
+Sketch by Georgia Siapno. Georgia created a clickable interior that, when you clicked on the bed, took you into a randomly generated dream-like maze space. This project enabled Georgia to showcase her illustration skills and incorporated playfulness (like how clicking on the TV turned it on).
+
+
 
 ## Rubric
 
+**Note:** Code must function in order to earn credit.
+
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| You've flowcharted or otherwise planned and prototyped your project. Documentation of your planning/prototype is included. | 20 pts |
-| A minimum of 12 images have been used with at least six distinct scenes. | 20 pts |
-| A beginning codebase is created that shows structure, the use of a switch | 10 pts |
+| **Technique**<br />- A **beginning codebase** is created that shows structure, the use of a **`switch`**<br />- Show how you will **keep track of a user's progress** through the story using `integers`, `enums`, or some other form of state management. | 1 pts  |
+| **Conceptual Understanding**<br />- A minimum of **12 images** or image elements have been chosen for at least **six distinct scenes**.<br />- You've **flowcharted** or otherwise **planned/prototyped** your project and documentation of your planning/prototype is included as a scanned PDF (must be oriented correctly).<br />- Prototype shows that it's possible to navigate through story using **multiple paths**. | 1 pts  |
+| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />Code is **auto-formatted** (select all and control-i) so that tabs are correct.<br />- The code is presented neatly **without** commented out code. | 1 pts  |
 
 [Next Section: Module 5](../5_Classes_Objects_and_Arrays/README.md)
 

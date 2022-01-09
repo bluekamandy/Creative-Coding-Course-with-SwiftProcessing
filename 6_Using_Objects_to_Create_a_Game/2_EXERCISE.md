@@ -18,7 +18,9 @@ A digital tennis game like Pong is a great way of thinking through the idea of *
 
 ## Instructions
 
-We're going to divide the creation of a digital tennis game into 3 challenges which should be coded as **individual sketches**. In the next project, we'll put them all together to create the final game.
+We're going to divide the creation of a digital tennis game into 3 challenges which should be coded as **2 individual sketches** (see examples). In the next project, we'll put them all together to create the final game.
+
+![Paddle_Example](images/Paddle_Example.gif)
 
 #### **Challenge 1: Paddle Class**
 
@@ -29,6 +31,8 @@ Create a single paddle using the **`rect()` function** with the following charac
 - **Use `touchX`** to control the x-position of the paddle.
 - The paddle should stay **fixed in its y-position**.
 - Use the **`constrain()` function** to constrain your y-position so that the paddle does not move off the screen.
+
+![Ball_Collision_Example](images/Ball_Collision_Example.gif)
 
 #### **Challenge 2: Ball Class**
 
@@ -52,27 +56,35 @@ Use your ball code and modify it in the following way:
 
 - Write a **collision detection boolean function** called `hitPaddle()` in which you feed the location and size of the rectangle  and the location of the ball. This function will detect when the ball is inside the square and give a visual indication by changing the fill  color of the square. You will use an **if else statement** to change the fill of the square.
 
-  Your boolean function will look a little like this when you use it (it can be written on a single line. Multiple lines used here for space.):
+  Your boolean function will look a little like this when you use it (it can be written on a single line. Multiple lines used here for space.) This is only pseudocode, so you'll still need to write the correct format when defining and calling a function:
 
 ```swift
-hitPaddle(paddleX, paddleY,
-          paddleWidth, paddleHeight,
-          ballX, ballY, ballRadius)
+hitPaddle(paddle.x, paddle.y,
+          paddle.width, paddle.height,
+          ball.x, ball.y, ball.radius)
 ```
 
-## Student Examples
+## **File Submission Instructions**
 
-The following are student examples used with permission:
+Only 1 file submission per group is required. When submitting your main zip file, it should be named like this:
 
-Coming soon.
+`LastFirst1_LastFirst2_LastFirst3_GameElements.zip`
+
+Inside of this folder there should be 2 separate Processing projects that include the following:
+
+1. `ball`
+2. `paddle`
+3. `collision`
 
 ## Rubric
 
+**Note:** Code must function in order to earn credit.
+
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| All 3 challenges have been completed as individual sketches and function properly with expected behavior described in the assignment prompt. | 10 pts |
-| Code is written in a way that it can be reused, i.e. with classes and functions. Use of global variables has been minimized, and when appropriate functions and/or objects have been implemented. | 10 pts |
-| Code is helpfully commented for your future self. If you worked in a group, describe who did what in your header. | 5 pts  |
+| **Technique**<br />- Code is written in a way that it can be reused, i.e. **with classes and functions**.<br />- **Use of global variables has been eliminated** and only global instances of objects exist (i.e. paddle and ball).<br />- **`constrain()`** is used correctly for paddle.<br />- Collision is implemented using **a function that returns a boolean**. | 1 pts  |
+| **Conceptual Understanding**<br />- All 3 challenges have been completed as **2 individual sketches**.<br />- Sketch behavior is **consistent with requirements** in assignment prompt. | 1 pts  |
+| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />Code is **auto-formatted** (select all and control-i) so that tabs are correct.<br />- The code is presented neatly **without** commented out code. | 1 pts  |
 
 [Next Section: Project](3_PROJECT.md)
 

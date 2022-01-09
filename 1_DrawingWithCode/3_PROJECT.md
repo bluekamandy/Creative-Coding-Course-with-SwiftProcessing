@@ -28,6 +28,10 @@ The goal for this project is to translate the  painting into code.
 
 ## Student Example
 
+**Note:** The examples I provide are meant to only give you an idea of what's expected. **Do not copy them. All of your ideas in this course must be original.** Create your own approach to all assignments. Copies will receive no credit.
+
+The following is a student example used with permission:
+
 ![ScottWu_DrawingWithCode](images/ScottWu_DrawingWithCode.png)
 
 Sketch by Scott Wu.
@@ -40,7 +44,7 @@ Sketch by Scott Wu.
 | ------------------------------------------------------------ | ------ |
 | **Technique**<br />- **Uses the shape functions learned** in the module to create an interesting crop of an image that enables an exploration of as many of the required functions as possible (at least 5). | 1 pt   |
 | **Conceptual Understanding**<br />- **Uses color to accurately reproduce the image** selected and demonstrates knowledge of using color in code. | 1 pt   |
-| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (select all and Control-i) so that tabs are correct.<br />- The code is presented neatly **without** commented out code. | 1 pt   |
+| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (select all and control-i) so that tabs are correct.<br />- The code is presented neatly **without** commented out code. | 1 pt   |
 
 [Next Section: Module 2](../2_ColorLoopsAnimation/README.md)
 

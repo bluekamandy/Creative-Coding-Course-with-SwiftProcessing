@@ -126,19 +126,29 @@ class MySketch: Sketch, SketchDelegate {
 
 ## Student Examples
 
+**Note:** The examples I provide are meant to only give you an idea of what's expected. **Do not copy them. All of your ideas in this course must be original.** Create your own approach to all assignments. Copies will receive no credit.
+
 The following are student examples used with permission:
 
-Coming soon.
+![RuanBonney_CollageEngineII](images/RuanBonney_CollageEngineII.gif)
+
+Sketch by Bonney Ruan
+
+![WuScott_CollageEngine](images/WuScott_CollageEngine.gif)
+
+Sketch by Scott Wu. In this sketch, Scott used a different type of motion which was a variation on a [random walker](https://www.youtube.com/watch?v=rqecAdEGW6I). You are always welcome to modify assignments as long as you get approval first.
 
 ## Rubric
 
+**Note:** Code must function in order to earn credit.
+
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| Your collage creates itself from a pool of 10 images (at least). | 5 pts  |
-| The `random()` function is used.                             | 5 pts  |
-| Collage has a clear compositional logic. Images are not just random on the canvas. | 5 pts  |
-| `frameRate(1)` has been deleted and the different types of motion have been incorporated. | 5 pts  |
-| Code has a clear, descriptive header. Code is helpfully commented for your future self. | 5 pts  |
+| **Technique**<br />- The **`random()`** function is used.    | 1 pt   |
+| - **`frameRate(1)`** has been **deleted** and the **three different types of motion** have been incorporated. | 1 pt   |
+| **Conceptual Understanding**<br />- Your collage creates itself from a **pool of 10 images** (at least). | 1 pt   |
+| - Collage has a **clear compositional logic**. Images are not just random on the canvas. | 1 pt   |
+| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />Code is **auto-formatted** (select all and control-i) so that tabs are correct.<br />- The code is presented neatly **without** commented out code. | 1 pt   |
 
 [Next Section: Exercise 2](3_EXERCISE.md)
 

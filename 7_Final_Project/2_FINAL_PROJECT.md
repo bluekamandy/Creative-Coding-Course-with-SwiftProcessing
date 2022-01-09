@@ -62,11 +62,40 @@ Use the **APA style** to list your sources. You can use [Purdue's OWL website](h
 - **Final Project**: If your project is a physical object you will need to photograph and  document your project thoroughly to turn it in on Canvas. All elements  of your projects must be documented.
 - Include a **functioning copy of your project** with **instructions** on how to use the file. **Provide a functioning file. Do not provide links.**
 
+## Student Examples
+
+**Note:** The examples I provide are meant to only give you an idea of what's expected. **Do not copy them. All of your ideas in this course must be original.** Create your own approach to all assignments. Copies will receive no credit.
+
+The following are student examples used with permission:
+
+![ThossCat_FinalProject](images/ThossCat_FinalProject.gif)
+
+Sketch by Cat Thoss. In Cat's final project, she explores her Korean-American heritage by conducting interviews with her grandmother, who immigrated from Korea. Using photographs, an audio voice-over, and a 3D exhibition space, Cat invites the viewer to interactively walk through the life story of her subject and learn about Korean-American history.
+
+![GreatJourney_FinalProject](images/GreatJourney_FinalProject.gif)
+
+This project, called *The Great Journey*, was created by a student who wanted to tell the story of a relative who crossed the southern border of the United States to find a better life for their family. The game is designed around the dangers faced in the difficult journey. The student created 3 levels and incorporated aspects of their family's actual experience in the game elements and cut scenes.
+
+![PuzioEsme_FinalProject](images/PuzioEsme_FinalProject.gif)
+
+Sketch by Esme Puzio. Esme's final project was to create a system that teaches people strategies for coping with anxiety and panic disorders. Her research centered around breathing techniques and cognitive behavioral therapy.
+
+![HazlingerWill_FinalProject](images/HazlingerWill_FinalProject.gif)
+
+Sketch by Will Hazlinger. Will's final project is an exploration of transgender, gender non-conforming, and demigender history through an exploration of 9 historical flags, images of prominent figures, music, and text. As users scroll over images, information is given and various historically important anthems play in the background.
+
+![ToKelly_FinalProject](images/ToKelly_FinalProject.gif)
+
+Sketch by Kelly To. Kelly explored the history and practice of redlining and gentrification. Her research focussed on how the practice keeps populations of people of color vulnerable to financial/housing instability and health problems and how its legacy continues to this day.
+
 ## Rubric
+
+**Note:** Code must function in order to earn credit.
 
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| **Final Project**—Project is complete, runs without intervention, contains no glitches, and clearly reflects the  intentions and ideas put forward in the research and statement. | 50 pts |
-| **Research**—Project has an annotated bibliography in the correct APA style and the research done is clearly applied to your project. Research done after the fact will not count toward your project. | 20 pts |
-| **Statement**—Contains a written statement that clearly explains what the project  does/is. Statement does not contain typos, misspellings, and contains correct grammar. | 10 pts |
+| **Final Project**<br />- Project is **complete** per the scope outlined in the proposal.<br />- **Runs without intervention**, contains no glitches.<br />- Clearly **reflects the intentions and ideas** put forward in the research and statement. | 4 pt   |
+| **Research**<br />- Project has an **annotated bibliography** in the correct APA style as a PDF.<br />- The research done is **clearly applied to your project** in a clear way.<br />NOTE: Research done after the fact or "tacked on" will not count toward your project. | 4 pt   |
+| **Statement**<br />- Contains a short **written statement** that clearly explains what the project does/is.<br />- Statement contains **no typos or misspellings**, and uses **correct grammar**.<br />- Uploaded as a **PDF**. | 4 pt   |
+| **Presentation**<br />- **Important:** If you worked in a group, **describe who did what in your header**.<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (select all and control-i) so that tabs are correct.<br />- The code is presented neatly **without** commented out code. | 4 pt   |
 
