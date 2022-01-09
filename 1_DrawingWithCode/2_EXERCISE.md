@@ -40,16 +40,40 @@ Your assignment is based on the [Conditional Drawing Manifesto](https://conditio
 
 ## Student Examples
 
-The following are student examples used with permission:
+**Note:** The examples I provide are meant to only give you an idea of what's expected. **Do not copy them. All of your ideas in this course must be original.** Create your own approach to all assignments.
 
-Coming soon.
+The following is a student example used with permission:
+
+Instructions by Connell Trainor:
+
+![Connell_CodingForHumans_Instructions](images/Connell_CodingForHumans_Instructions.png)
+
+Follow the instructions yourself:
+
+![Connell_CodingForHumans_Self](images/Connell_CodingForHumans_Self.png)
+
+Ask a partner to do the instructions without showing them your own results:
+
+![Connell_CodingForHumans_Partner](images/Connell_CodingForHumans_Partner.png)
+
+Instructions by Sain Lim:
+
+![LimSain_CodingForHumans_Instructions](images/LimSain_CodingForHumans_Instructions.png)
+
+Follow the instructions yourself:
+
+![LimSain_CodingForHumans_Self](images/LimSain_CodingForHumans_Self.png)
+
+Ask a partner to do the instructions without showing them your own results:
+
+![LimSain_CodingForHumans_Partner](images/LimSain_CodingForHumans_Partner.png)
 
 ## Rubric
 
-| Criteria                                              | Points |
-| ----------------------------------------------------- | ------ |
-| Followed Instructions.                                | 10 pts |
-| Worded with a partner and included results.           | 10 pts |
-| Submission was scanned clearly as a PDF, JPG, or PNG. | 5 pts  |
+| Criteria                                                     | Points |
+| ------------------------------------------------------------ | ------ |
+| **Conceptual Understanding**<br />- Instructions take approximately 10 minutes to complete.<br />- Created an example where instructions are followed. | 1 pts  |
+| - Worked with a **partner** and **included results**.        | 1 pts  |
+| **Presentation**<br />- Instructions are handwritten on a single 8.5 x 11 inch paper.<br />- Submission was **scanned clearly** and **oriented correctly** as a PDF, JPG, or PNG. | 1 pts  |
 
 [Next Section: Project](3_PROJECT.md)

@@ -26,19 +26,21 @@ Use at least the following functions for drawing: `strokeWeight()`, `noStroke()`
 
 The goal for this project is to translate the  painting into code.
 
-## Student Examples
+## Student Example
 
-The following are student examples used with permission:
+![ScottWu_DrawingWithCode](images/ScottWu_DrawingWithCode.png)
 
-Coming Soon.
+Sketch by Scott Wu.
 
 ## Rubric
 
+**Note:** Code must function in order to earn credit.
+
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| Uses the shape functions learned in the module to create an interesting/ambitious crop of the image. | 10 pts |
-| Uses color to accurately reproduce the image selected and demonstrates knowledge of using color in code. | 10 pts |
-| Code has a clear, descriptive header. Code is helpfully commented for your future self. | 5 pts  |
+| **Technique**<br />- **Uses the shape functions learned** in the module to create an interesting crop of an image that enables an exploration of as many of the required functions as possible (at least 5). | 1 pt   |
+| **Conceptual Understanding**<br />- **Uses color to accurately reproduce the image** selected and demonstrates knowledge of using color in code. | 1 pt   |
+| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (select all and Control-i) so that tabs are correct.<br />- The code is presented neatly **without** commented out code. | 1 pt   |
 
 [Next Section: Module 2](../2_ColorLoopsAnimation/README.md)
 
