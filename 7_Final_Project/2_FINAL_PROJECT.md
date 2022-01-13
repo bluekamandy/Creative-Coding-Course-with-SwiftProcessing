@@ -28,6 +28,8 @@ You will be required to **research** your topic and **provide evidence** of your
 
 Sustainability/Environmentalism. Social Justice. Human Culture. Animal Welfare. Physical/Mental Health. Neurodiversity (dyslexia, autism spectrum, ADHD, etc.). Safety/Security. Privacy. Surveillance. Spirituality. Indigenous Peoples. Human Trafficking. Human Sexuality. Transgender Identity. Immigration. Politics. History. Philosophy. War and Conflict.
 
+There is a [list of global issues available on Wikipedia](https://en.wikipedia.org/wiki/List_of_global_issues) as well that may be a good starting point.
+
 NOTE: These are **not the only possible categories**. If you have other ideas, just contact me to talk about it first.
 
 ## Research
