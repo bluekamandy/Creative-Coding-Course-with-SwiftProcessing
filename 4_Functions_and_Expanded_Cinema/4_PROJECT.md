@@ -80,25 +80,25 @@ The following are student examples used with permission:
 
 ### Flowchart Example
 
-![MorseCat_ExpandedCinema_Flowchart](/Users/masoodkamandy/Desktop/_LAYER/____TEACHING/Creative-Coding-Course-with-Processing/4_Functions_and_Expanded_Cinema/images/MorseCat_ExpandedCinema_Flowchart.png)
+![MorseCat_ExpandedCinema_Flowchart](images/MorseCat_ExpandedCinema_Flowchart.png)
 
 Flowchart by Cat Morse. In Cat's example she has a single beginning and ending, but 3 possible middle portions. This is one way of approaching this assignment.
 
-![ZhangZiyu_ExpandedCinema_Flowchart](/Users/masoodkamandy/Desktop/_LAYER/____TEACHING/Creative-Coding-Course-with-Processing/4_Functions_and_Expanded_Cinema/images/ZhangZiyu_ExpandedCinema_Flowchart.png)
+![ZhangZiyu_ExpandedCinema_Flowchart](images/ZhangZiyu_ExpandedCinema_Flowchart.png)
 
 Flowchart by Ziyu Zhang. This is a flow chart with a single beginning and 3 different endings. There are many different possible paths through the narrative.
 
-![SiapnoGeorgia_FlowChart](/Users/masoodkamandy/Desktop/_LAYER/____TEACHING/Creative-Coding-Course-with-Processing/4_Functions_and_Expanded_Cinema/images/SiapnoGeorgia_FlowChart.png)
+![SiapnoGeorgia_FlowChart](images/SiapnoGeorgia_FlowChart.png)
 
 Flowchart/prototype by Georgia Siapno. Georgia's approach was to create a flowchart that also planned out the interactive experience visually. It operates simultaneously as a flowchart and a prototype to talk about what it's like visually to walk through the software.
 
 ### Completed Project Examples
 
-![PuzioEsme_ExpandedCinema](/Users/masoodkamandy/Desktop/_LAYER/____TEACHING/Creative-Coding-Course-with-Processing/4_Functions_and_Expanded_Cinema/images/PuzioEsme_ExpandedCinema.png)
+![PuzioEsme_ExpandedCinema](images/PuzioEsme_ExpandedCinema.png)
 
 Sketch by Esme Puzio. In this expanded cinema narrative, the user navigates using the keyboard through a surreal landscape. The images are taken from Google Street View and modified for surreal effect. The goal is to find a magic eight ball hidden somewhere in the dream.
 
-![SiapnoGeorgia_ExpandedCinema](/Users/masoodkamandy/Desktop/_LAYER/____TEACHING/Creative-Coding-Course-with-Processing/4_Functions_and_Expanded_Cinema/images/SiapnoGeorgia_ExpandedCinema.gif)
+![SiapnoGeorgia_ExpandedCinema](images/SiapnoGeorgia_ExpandedCinema.gif)
 
 Sketch by Georgia Siapno. Georgia created a clickable interior that, when you clicked on the bed, took you into a randomly generated dream-like maze space. This project enabled Georgia to showcase her illustration skills and incorporated playfulness (like how clicking on the TV turned it on).
 
